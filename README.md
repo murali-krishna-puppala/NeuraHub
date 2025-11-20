@@ -27,6 +27,3 @@
 The app supports dynamic search, category filters, a dark/light theme, and even allows users to add their own tools!
 
 ---
-
-🌍 **Live Demo:**  
-👉 [https://Saitej-04.github.io/NeuraHub/](https://Saitej-04.github.io/NeuraHub/)
