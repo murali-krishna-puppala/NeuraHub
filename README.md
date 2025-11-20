@@ -10,7 +10,7 @@
   <b>Credits | Murali Krishna Puppala</b>
   <br><br>
   🌐 <a href="https://murali-krishna-puppala.github.io/NeuraHub/">Live Demo</a> |
-  📦 <a href="https://github.com/Saitej-04/NeuraHub">View Source</a>
+  📦 <a href="https://github.com/murali-krishna-puppala/NeuraHub">View Source</a>
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white">
