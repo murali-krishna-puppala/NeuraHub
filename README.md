@@ -7,9 +7,9 @@
 
 <p align="center">
   Explore and discover the world of <b>AI Tools</b> – from Chatbots to Coding Assistants – all in one place.<br>
-  <b>Built with ❤️ by Sai Teja</b>
+  <b>Credits | Murali Krishna Puppala</b>
   <br><br>
-  🌐 <a href="https://Saitej-04.github.io/NeuraHub/">Live Demo</a> |
+  🌐 <a href="https://murali-krishna-puppala.github.io/NeuraHub/">Live Demo</a> |
   📦 <a href="https://github.com/Saitej-04/NeuraHub">View Source</a>
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white">
